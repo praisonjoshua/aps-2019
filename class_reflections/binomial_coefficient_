@@ -2,4 +2,5 @@ There were three approaches discussed in class
 dp, recursion , optimised dp
 dp - this was 2nd best with 2d matrix table being built 2 loops
 recursion -  this looked easy but it is said that they consume more stack memory ..... and stuff.
-optimised dp -  here the problem is solved using 1d array single lood
+optimised dp -  here the problem is solved using 1d array single loop
+
