@@ -16,7 +16,7 @@ int main()
         
     }
     
-    scanf("%d",&m);
+   // scanf("%d",&m);
     int q[2];
     
     
